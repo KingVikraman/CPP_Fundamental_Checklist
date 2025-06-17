@@ -1,0 +1,55 @@
+1) What is OOP?
+=================================================
+- There are many examples of programming paradigms and one of them are called OOP,
+  (Object Oriented Programmig). Example -> (Processors Orie  nnted Programming, POP).
+
+- Programming paradigm -> a way or a style of doing programming., there are many paradigms
+  like -> Imperative, Functional, Parallel, Under Imperative).
+
+- Both POP & OOP are imperative programming paradigms.
+
+- What is POP, as the name says Processors oriented means that the processec made by it
+  would revolve around the processors if the machine, more of like a how to do the task, 
+  rather than what to do. -> Processes or functions are what POP are made up of, (C_Programming),
+  (Fortan), (Pascal) is a examples of POP.
+  
+- in OOP the data is more secure in the sense where, it is not accsessable by
+  lots of variables like POP, and as for the POP like c, its not scalable
+  so when a sofware is developed, there wont be updates, or things that can be changed.
+  WHy? Because of interdependency, more and more functions depend on each other, as the
+  processes expand.
+
+2) Structure of C++ Program
+=================================================
+-
+-
+-
+-
+
+
+3) Data Types, Variables, Keywords, Identifiers
+=================================================
+-
+-
+-
+-
+
+4) Operators
+=================================================
+-
+-
+-
+-
+-
+
+5) Control Structures
+==================================================
+-
+-
+-
+-
+-
+-
+
+6) Functions, Inline functions,Overloading
+===================================================
