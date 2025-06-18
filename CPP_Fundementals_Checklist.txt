@@ -1,31 +1,40 @@
 1) What is OOP?
 =================================================
-- There are many examples of programming paradigms and one of them are called OOP,
-  (Object Oriented Programmig). Example -> (Processors Orie  nnted Programming, POP).
+- There are many examples of programming paradigms and one of them
+  are called OOP,(Object Oriented Programmig). Example -> (Processors
+  Oriented Programming, POP).
 
-- Programming paradigm -> a way or a style of doing programming., there are many paradigms
-  like -> Imperative, Functional, Parallel, Under Imperative).
+- Programming paradigm -> a way or a style of doing programming,
+  there are many paradigms like -> Imperative, Functional, Parallel,
+  Under Imperative).
 
 - Both POP & OOP are imperative programming paradigms.
 
-- What is POP, as the name says Processors oriented means that the processec made by it
-  would revolve around the processors if the machine, more of like a how to do the task, 
-  rather than what to do. -> Processes or functions are what POP are made up of, (C_Programming),
-  (Fortan), (Pascal) is a examples of POP.
+- What is POP, as the name says Processors oriented means that the
+  processec made by it would revolve around the processors if the machine,
+  more of like a how to do the task,rather than what to do. -> Processes or
+  functions are what POP are made up of, (C_Programming),(Fortan), (Pascal) 
+  is a examples of POP.
   
-- in OOP the data is more secure in the sense where, it is not accsessable by
+- In OOP the data is more secure in the sense where, it is not accsessable by
   lots of variables like POP, and as for the POP like c, its not scalable
-  so when a sofware is developed, there wont be updates, or things that can be changed.
-  WHy? Because of interdependency, more and more functions depend on each other, as the
-  processes expand.
+  so when a sofware is developed, there wont be updates, or things that can
+  be changed.WHy? Because of interdependency, more and more functions depend 
+  on each other, as the processes expand.
 
 2) Structure of C++ Program
 =================================================
--
--
--
--
+- Whats is struct? Struct is a user-defined data type in C++. It allows grouping
+  of variables of different data types under one name.
 
+- Structs also, are on default a public variable. Public meaning, anyone can accsess
+  the data, and modify it.
+
+- What are class? Class is a user-defined data type in C++, and it is used to model
+  real-world entities by combining data(variables) and behavious(functions). A class
+  is more of like a blueprint of a house, and objects are the houses built from it.
+
+- Class are also private by default, thus not everyone can acsess the data. 
 
 3) Data Types, Variables, Keywords, Identifiers
 =================================================
@@ -53,3 +62,14 @@
 
 6) Functions, Inline functions,Overloading
 ===================================================
+
+
+[ INTRODUCTION TO C++ -> ]
+====================================================
+Latest version of C++ is C++23.
+Object,
+Abstaction,
+Encapsulation,
+Polymorphism,
+Innheritance 
+
