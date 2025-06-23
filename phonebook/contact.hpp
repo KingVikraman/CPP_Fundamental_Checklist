@@ -11,6 +11,8 @@ private:
 	std::string phoneNumber;
 	std::string darkestSecret;
 
+	void printField(const std::string& str) const;
+
 public:
 	void setContact(); // fill all fields
 	void displayShort(int index) const; // for SEARCH table

@@ -22,14 +22,17 @@ void Contact::setContact()
 	std::getline(std::cin, darkestSecret);
 }
 
-void Contact::displayShort(int index) const {
-	auto printField = [](std::string str) {
-		if (str.length() > 10)
-			std::cout << str.substr(0, 9) + ".";
-		else
-			std::cout << std::setw(10) << str;
-	};
 
+void Contact::printField(const std::string& str)
+const {
+	if (str.length() > 10)
+		std::cout << str.substr(0, 9) + ".";
+	else
+		std::cout << std::setw(10) << str;
+}
+
+void Contact::displayShort(int index)
+const {
 	std::cout << std::setw(10) << index << "|";
 	printField(firstName); std::cout << "|";
 	printField(lastName); std::cout << "|";

@@ -4,7 +4,7 @@ CXXFLAGS = -Wall -Wextra -Werror -std=c++98
 
 # 🧱 Files
 NAME = phonebook
-SRCS = main.cpp Contact.cpp PhoneBook.cpp
+SRCS = main.cpp contact.cpp phonebook.cpp
 OBJS = $(SRCS:.cpp=.o)
 
 # 🛠️ Build executable
